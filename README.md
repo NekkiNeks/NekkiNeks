@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developement, I also interested in the automation of processes related to computer technology in general.
 - 🌱 I’m currently learning React JS, Node JS and Typescript.
 - 📫 You can reach me on telegram @nekkinekkinekki.
-- 🌐 My website: nekkineks.github.io
+- 🌐 Also check my [website](https://nekkineks.github.io)!
 
 <!---
 NekkiNeks/NekkiNeks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
