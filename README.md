@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NekkiNeks
+- 👋 Hi, I’m @NekkiNeks!
 - 👀 I’m interested in web developement, I also interested in the automation of processes related to computer technology in general.
-- 🌱 I’m currently learning React JS, Node JS and Typescript.
+- 🌱 I’m currently learning Rust, Go and C.
 - 📫 You can reach me on telegram @nekkinekkinekki.
 - 🌐 Also check my [website](https://nekkineks.github.io) if you want to know more about me!
 
